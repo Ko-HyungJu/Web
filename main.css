@@ -1,0 +1,28 @@
+.container{
+    width : 600px;
+    height : 150px;
+    display: flex;
+}
+    
+.text {
+    width : 70%;
+    height : 100%;
+    
+}
+
+.image{
+    width : 30%;
+    height : 100%;
+    
+}
+
+
+.profile{
+    width : 100%;
+    height : 20%;
+}
+
+.explanation{
+    width : 100%;
+    height : 80%;
+}
